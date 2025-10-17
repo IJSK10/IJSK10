@@ -1,3 +1,6 @@
+![Header](./github-header-banner.png)
+
+
 # 💫 About Me:
 I am a student studying Master of Science in Computer Science at Stony Brook University.
 
