@@ -29,7 +29,7 @@ Hi there! 👋 I’m Saravana, a Computer Science graduate student at Stony Broo
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijsk10&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ijsk10&theme=dark&hide_border=false&include_all_commits=false" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijsk10&theme=dark&hide_border=false&layout=compact" height="180" alt="languages graph" />
 </div>
 <div align="center">
