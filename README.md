@@ -28,12 +28,10 @@ Hi there! 👋 I’m Saravana, a Computer Science graduate student at Stony Broo
 ---
 
 # 📊 GitHub Stats:
-[![Saravana's GitHub stats](https://github-readme-stats.vercel.app/api?username=IJSK10)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijsk10&theme=dark&hide_border=false&include_all_commits=false" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijsk10&theme=dark&hide_border=false&layout=compact" height="180" alt="languages graph" />
+  <img src="https://metrics.lecoq.io/IJSK10?template=classic&base=header,repositories&languages=1&languages.limit=8&config.timezone=America%2FNew_York" alt="Saravana's Metrics" />
 </div>
+
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ijsk10&theme=dark&hide_border=false" height="180" alt="streak graph" />
 </div>
