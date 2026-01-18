@@ -40,7 +40,7 @@ Hi there! 👋 I’m Saravana, a Computer Science graduate student at Stony Broo
 
 # 🧠 LeetCode Stats:
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/user2870Yt?theme=dark&font=Inter&ext=heatmap" width="600" />
+  <img src="./leetcode.svg" alt="Saravana's LeetCode" width="600" />
 </div>
 
 ---
