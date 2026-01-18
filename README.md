@@ -29,12 +29,11 @@ Hi there! 👋 I’m Saravana, a Computer Science graduate student at Stony Broo
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://metrics.lecoq.io/IJSK10?template=classic&base=header,repositories&languages=1&languages.limit=8&config.timezone=America%2FNew_York" alt="Saravana's Metrics" />
+  <img src="./github-metrics.svg" alt="Saravana's Generated Metrics" width="100%" />
 </div>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ijsk10&theme=dark&hide_border=false" height="180" alt="streak graph" />
 </div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ijsk10&icon=0&color=0)](https://visitcount.itsvg.in)
