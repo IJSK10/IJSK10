@@ -2,7 +2,7 @@ name: Metrics
 on:
   # Schedule updates (every 24 hours)
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually
+  # Lines below let you run workflow manually from the Actions tab
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -22,7 +22,14 @@ jobs:
           base: header, repositories
           config_timezone: America/New_York
           
-          # Language Stats
+          # 🗣️ Languages Configuration
           plugin_languages: yes
+          # This removes Jupyter Notebooks, HTML, and CSS from the stats
           plugin_languages_ignored: html, css, jupyter notebook
           plugin_languages_limit: 8
+          
+          # 🧠 LeetCode Configuration
+          plugin_leetcode: yes
+          # I used user2870Yt because that is what was in your profile link
+          plugin_leetcode_user: user2870Yt
+          plugin_leetcode_sections: solved, skills, recent
