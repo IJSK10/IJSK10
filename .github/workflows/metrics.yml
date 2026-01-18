@@ -24,5 +24,5 @@ jobs:
           
           # Language Stats
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, jupyter notebook
           plugin_languages_limit: 8
