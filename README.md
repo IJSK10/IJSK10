@@ -29,11 +29,18 @@ Hi there! 👋 I’m Saravana, a Computer Science graduate student at Stony Broo
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="./github-metrics.svg" alt="Saravana's Generated Metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="Saravana's Generated Metrics" width="600" />
 </div>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ijsk10&theme=dark&hide_border=false" height="180" alt="streak graph" />
+</div>
+
+<br/>
+
+# 🧠 LeetCode Stats:
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/user2870Yt?theme=dark&font=Inter&ext=heatmap" width="600" />
 </div>
 
 ---
