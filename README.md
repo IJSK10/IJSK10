@@ -35,5 +35,7 @@ Hi there! 👋 I’m Saravana, a Computer Science graduate student at Stony Broo
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ijsk10&theme=dark&hide_border=false" height="180" alt="streak graph" />
 </div>
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=ijsk10&icon=0&color=0)](https://visitcount.itsvg.in)
